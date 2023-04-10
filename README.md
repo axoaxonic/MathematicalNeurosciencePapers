@@ -487,5 +487,4 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
 * "What makes it possible to learn probability distributions in the natural world?",
     Bialek, Palmer, Schwab 2021 https://doi.org/10.48550/arXiv.2008.12279
 * "Why do networks have inhibitory/negative connections?",
-    Wang, Powell, Geisa, Bridgeford, Vogelstein 2022  	
-https://doi.org/10.48550/arXiv.2208.03211
+    Wang, Powell, Geisa, Bridgeford, Vogelstein 2022 https://doi.org/10.48550/arXiv.2208.03211
