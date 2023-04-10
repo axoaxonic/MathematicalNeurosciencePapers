@@ -1,7 +1,5 @@
 # Mathematical Neuroscience Papers
 
-A bibliography for mathematical and analytic theoretical (models, etc) papers related to neuroscience and adjacent fields, but _not_ centered on AI. There are plenty of other lists for AI. 
-
 The below is a list of mathematical neuroscience papers or mathematics-heavy analyses of biological nervous systems. Some may also talk about artificial systems, or are connectionist or Bayesian, but these are not intended to be the central theme of this list. Most papers involving networks also have a biologically plausible aspect like spiking &/or oscillatory dynamics.
 
 The inclusion criteria for papers here is: the work is relevant to biological neurons/nervous systems and mentions biological neurons at least twice, modeling and equations are central to the paper and not relegated to an appendix, and the model/s is/are not exclusively used to analyze an experiment's data -- they should be able to "stand on their own"
