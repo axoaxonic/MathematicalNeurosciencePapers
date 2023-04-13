@@ -16,6 +16,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Levis, Pagonabarraga, Liebchen 2019 https://doi.org/10.1103/PhysRevResearch.1.023026
 * "Adaptation and decorrelation in the cortex",
     Barlow & Földiàk 1989 https://www.neuroscience.cam.ac.uk/publications/download.php?id=25159
+* "Adaptive Dynamical Networks",
+    Berner, Gross, Kuehn, Kurths, & Yanchuk, 2023 https://doi.org/10.48550/arXiv.2304.05652
 * "Adaptive Exponential Integrate-and-Fire Model as an Effective Description of Neuronal Activity",
     Brette & Gerstner 2005 http://dx.doi.org/10.1152/jn.00686.2005
 * "Adaptive Rewiring in Non-Uniform Coupled Oscillators",
