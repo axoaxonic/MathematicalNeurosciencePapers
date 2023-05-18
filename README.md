@@ -48,6 +48,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Ariswalla, Bote, Verschure 2019 https://doi.org/10.1017/s0140525x19001432
 * "Bidirectional Associative Memories",
     Kosko 1988 https://doi.org/10.1109/21.87054
+* "Biological Organization Principles: Biogenesis, Cognition and Evolution of Living Systems",
+    Maureira & García, 2020 https://doi.org/10.20944/preprints202008.0647.v1
 * "Biologically plausible solutions for spiking networks with efficient coding",
     Koren & Panzeri 2022 https://proceedings.neurips.cc/paper_files/paper/2022/file/820c61a0cd419163ccbd2c33b268816e-Paper-Conference.pdf
 * "A biologically-inspired recurrent oscillator network for computations in high-dimensional state space",
@@ -64,6 +66,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Wang & Liu 2020 https://doi.org/10.3389/fphys.2020.00724
 * "Bursting synchronization in non-locally coupled maps",
     de Pontes, Viana, Lopes, Batista, & Batista 2008 http://www.fisica.ufpr.br/viana/artigos/2008/bursting_2008.pdf
+* "Canard-induced complex oscillations in an excitatory network",
+    Ersöz, Desroches, Guillamon, Rinzel, & Tabak 2020
 * "A category theory approach using preradicals to model information flows in networks",
     Pardo G & Silva 2020 https://doi.org/10.48550/arXiv.2012.02886
 * "A cerebellar mechanism for learning prior distributions of time intervals",
@@ -80,6 +84,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Abrams & Strogatz 2004 https://doi.org/10.1103/PhysRevLett.93.174102
 * "Chimera States on a Ring of Strongly Coupled Relaxation Oscillators",
     Rode, Totz, Fengler, & Engel 2019 https://doi.org/10.3389/fams.2019.00031
+* "Classification of bursting patterns: A tale of two ducks",
+    Desroches, Rinzel, & Rodrigues, 2022 https://doi.org/10.1371/journal.pcbi.1009752 
 * "Clique topology reveals intrinsic geometric structure in neural correlations",
     Giusti, Pastalkova, Curto, Itskov 2015 https://doi.org/10.1073/pnas.150640711
 * "Cliques and Cavities in the Human Connectome",
@@ -96,6 +102,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Wu, Su, Tong, Wu, & Liu 2017 https://doi.org/10.1101/164392 
 * "Combinatorial neural codes from a mathematical coding theory perspective",
     Curto, Itskov, Morrison, Roth, Walker 2012 https://doi.org/10.1162/NECO_a_00459
+* "Common population codes produce extremely nonlinear neural manifolds",
+    De & Chaudhuri 2023 https://doi.org/10.1101/2022.09.27.509823
 * "A Comparison of the Hodgkin–Huxley Model and the Soliton Theory for the Action Potential in Nerves",
     Appali, van Rienen, Heimburg 2012 https://doi.org/10.1016/B978-0-12-396534-9.00009-X
 * "Complex Dynamics and Bifurcations in Neurology",
@@ -146,6 +154,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Mackey & an der Heiden 1984 https://www.mcgill.ca/mathematical-physiology-lab/files/mathematical-physiology-lab/1984_mcm_uheiden_dynamics_recurrent_inhibition.pdf
 * "Dynamics of Sparsely Connected Networks of Excitatory and Inhibitory Spiking Neurons",
    Brunel 1999 https://doi.org/10.1023/a:1008925309027
+* "The Effect of Calcium++ on Bursting Neurons: A Modeling Study"
+    Plant, 1977 https://www.cell.com/biophysj/pdf/S0006-3495(78)85521-0.pdf
 * "The effect of inhibition on rate code efficiency indicators",
     Barta & Kostal 2019 https://doi.org/10.1371/journal.pcbi.1007545
 * "Elements of qualitative cognition: An information topology perspective",
@@ -176,6 +186,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Obeid, Bruns, Angus, Bruza, & Moreira 2022 https://doi.org/10.3389%2Ffpsyg.2022.871028
 * "Falsification and consciousness",
     Kleiner & Hoel 2021 https://doi.org/10.1093/nc/niab001
+* "Fast–Slow Bursters in the Unfolding of a High Codimension Singularity and the Ultra-slow Transitions of Classes",
+    Saggio, Spiegler, Bernard, & Jirsa, 2017 https://doi.org/10.1186/s13408-017-0050-8
 * "FitzHugh-Nagumo Revisited: Types of Bifurcations, Periodical Forcing and Stability Regions by a Lyapunov Functional",
     Kostova, Ravindran, & Shonbek 2003 http://www.its.caltech.edu/~matilde/FHNLyapunov.pdf
 * "A Framework for Mesencephalic Dopamine Systems Based on Predictive Hebbian Learning",
@@ -240,7 +252,9 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Beta & Kruse 2017 https://doi.org/10.1146/annurev-conmatphys-031016-025210
 * "Landmarks for Neurogeometry",
     Petitot 2015 http://jeanpetitot.com/ArticlesPDF/Petitot_Landmarks.pdf
-* "The Lost Art of Mathematical Modelling",
+* "Laplace–Beltrami eigenvalues and topological features of eigenfunctions for statistical shape analysis", 
+    Reuter, Wolter, Shenton, & Niethamer, 2009 https://doi.org/10.1016/j.cad.2009.02.007
+* "The Lost Art of Mathematical Modelling"
     Gyllingberg, Birhane, Sumpter 2023 https://doi.org/10.48550/arXiv.2301.08559
 * "Maintaining Consistency of Spatial Information in the Hippocampal Network: A Combinatorial Geometry Model",
     Dabaghian 2016 https://doi.org/10.1162/NECO_a_00840 
@@ -320,6 +334,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Egger, Le, Jazayeri 2020 https://doi.org/10.1038/s41467-020-16999-8
 * "Neural Codes and Homotopy Types: Mathematical Models of Place Field Recognition",
     Manin 2015 https://doi.org/10.48550/arXiv.1501.00897
+* "Neural Excitability, Bursting and Spiking",
+    Izhikevich, 1999 https://www.izhikevich.org/publications/nesb.pdf
 * "Neural Ideals and Stimulus Space Visualization",
     Gross, Obatake, & Youngs 2016 https://doi.org/10.1016/j.aam.2017.10.002
 * "Neural Ideal Preserving Homomorphisms",
@@ -378,6 +394,10 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Chu, Ji, Zuo, Zhang, Huang, Mi, Wu 2022 https://proceedings.neurips.cc/paper_files/paper/2022/file/d6797a91df19b768409b5178642dcb26-Paper-Conference.pdf
 * "Outline of a Matrix Calculus for Neural Nets",
     Landahl & Runge 1946 https://doi.org/10.1007/BF02478464
+* "Parabolic Bursting in an Excitable System Coupled With a Slow Oscillation",
+    Ermentrout & Kopell, 1986 http://utw10729.utweb.utexas.edu/wp-content/uploads/2019/01/KopelErmentrout.pdf 
+* "Parabolic bursting revisited",
+    Soto-Treviño, Kopell, & Watson, 1996 https://doi.org/10.1007/s002850050046
 * "Pattern Recognition Via Synchronization in Phase-Locked Loop Neural Networks",
     Hoppensteadt & Izhikevich 2000 https://doi.org/10.1109/72.846744
 * "Periodically kicked feedforward chains of simple exitable FitzHugh-Nagumo neurons",
@@ -396,6 +416,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Sejnowski, Dayan, & Montague 1995 https://doi.org/10.1523/JNEUROSCI.16-05-01936.1996 
 * "Problems of Information Processing in the Nervous System",
     Güttinger 1972 https://doi.org/10.3109/00207457209147014
+* "Propagation of chaos in neural fields",
+    Touboul 2014 https://doi.org/10.1214/13-AAP950
 * "Psychologically Simple Motions as Geodesic Paths I. Asymmetric Objects",
     Carlton & Shepard 1990 https://doi.org/10.1016/0022-2496(90)90001-P
 * "Psychologically Simple Motions as Geodesic Paths II. Symmetric Objects",
@@ -414,6 +436,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Zhou, Kahana, Schapiro 2023 https://doi.org/10.1101/2023.03.22.533833 
 * "Routes to extreme events in dynamical systems: Dynamical and Statistical Characteristics",
     Mishra, Kingston, Hens, Kapitaniak, Feudel, & Dana 2020 https://doi.org/10.1063/1.5144143
+* "Shape Analysis of Human Brain: A Brief Survey",
+    Nitzken, Casanova, Gimel’farb, Inanc, Zurada, & El-Baz, 2013 https://ieeexplore.ieee.org/iel7/6221020/6846381/06704321.pdf
 * "Shared input and recurrency in neural networks for metabolically efficient information transmission",
     Barta & Kostal 2023 https://doi.org/10.1101/2023.03.13.532471 
 * "The Sign Rule and Beyond: Boundary Effects, Flexibility, and Noise Correlations in Neural Population Codes",
@@ -458,6 +482,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Wörgötter & Porr 2005 https://doi.org/10.1162/0899766053011555
 * "A theory joint attractor dynamics in the hippocampus and the entorhinal cortex accounts for artificial remapping and grid cell field-to-field variability",
     Agmon & Burak 2020 https://doi.org/10.7554/eLife.56894
+* "Topological and phenomenological classification of bursting oscillations",
+    Bertram, Butte, Kiemel, & Sherman, 1995 https://doi.org/10.1007/BF02460633
 * "Topological Model of Neural Information Networks",
     Marcolli 2021 https://doi.org/10.1007/978-3-030-80209-7_67
 * "The Topology of the Brain and Visual Perception",
@@ -478,6 +504,8 @@ The inclusion criteria for papers here is: the work is relevant to biological ne
     Shilnikov & Cymbalyuk 2005 https://doi.org/10.1103/PhysRevLett.94.048101
 * "Two’s company, three (or more) is a simplex: Algebraic-topological tools for understanding higher-order structure in neural data",
     Giusti, Ghrist, Bassett 2016 https://doi.org/10.1007/s10827-016-0608-6
+* "An Unfolding Theory Approach to Bursting in Fast-Slow Systems",
+    Golubitsky, Josić, & Kaper, 2001 https://www.asc.ohio-state.edu/golubitsky.4/reprintweb-0.5/output/papers/bursting12.pdf
 * "Unsupervised learning for robust working memory",
     Gu & Lim 2022  https://doi.org/10.1371/journal.pcbi.1009083
 * "Waves and Oscillations in Model Neuronal Networks",
